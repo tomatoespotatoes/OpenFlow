@@ -1,2 +1,1 @@
-# OpenFlow
-WhisperFlow but pure cpu, free, and less features, but it works so ya
+in dev idk why i made this repo pub
